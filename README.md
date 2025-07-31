@@ -1,128 +1,101 @@
-<!-- CENTERED BIG BANNER -->
-<!-- BIG COLORFUL NAME BANNER + RUNNING SYSTEMS -->
-<!-- BIG COLORFUL NAME BANNER -->
+<!-- 🧠 Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Hi+I'm+Mithun+K!;Comp+Sci+Engineer+from+Trichy;NextG+Intern+%7C+ReactJS+%7C+Python+%7C+Java;Software+Testing+%7C+Cloud+Tech+%7C+Data;%5E</img>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Mithun+K!+👋;Computer+Science+Engineer+from+Trichy;ReactJS+%7C+Python+%7C+Java+Lover;Software+Testing+%7C+Business+Analyst+%7C+Data+Scientist" alt="Typing SVG" />
 </p>
 
-<!-- RUNNING COMPUTER IMAGE (Animated or vector) -->
+<!-- 🌐 Banner Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/main/system-animated.gif" width="200" alt="Animated computer running" />
-</p>
-
-<!-- PERSONAL TAGLINE -->
-<p align="center">
-  <strong>👨‍💻 Tech Enthusiast • Finalist @ SIH 2024 • Innovating @ NextG • Cloud | Web | Data</strong>
-</p>
-
-
-<!-- Subtitle -->
-<p align="center">
-  <strong>👨‍💻 Tech Enthusiast • SIH Finalist • Cloud | Web | Data • Powered by NextG</strong>
-</p>
-
-
-<p align="center">
-  <strong>👨‍💻 Tech Enthusiast • Finalist @ SIH 2024 • Innovating @ NextG • Cloud | Web | Data</strong>
+  <img src="https://media.giphy.com/media/UqZ3YfDj5kv9C/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0zjME/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 </p>
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/main/system-animated.gif" width="300px" />
-  <br/>
-  <h3>🌍 <strong>Innovating @ NextG | SIH Finalist | Future Cloud Architect</strong> 🌍</h3>
-</div>
+## 🙋‍♂️ About Me
+
+- 🎓 Final-year **Computer Science Engineering** student from Trichy  
+- 💼 Passionate about **Software Testing, Data Science**, and **Business Analysis**  
+- 🚀 Skilled in Python, Java, ReactJS, and Cloud Tech (Azure, AWS)  
+- 🏆 Finalist of **Smart India Hackathon 2024**  
+- 📊 Presenter at **IEEE Conference** – Student Monitoring System  
+- 💡 Bridging tech with real-world impact @ **NextG**
 
 ---
 
-## 📇 Contact Me
+## 💼 Projects & Experience
+
+| Project / Role                      | Tech / Details                                 |
+|------------------------------------|------------------------------------------------|
+| **Student Monitoring System**      | ReactJS + Python                               |
+| **Narcotics Tracking System**      | Partnered with NCB, Govt. of Delhi             |
+| **Library Management System**      | Simplified academic workflows                  |
+| **SmartLearn App**                 | School e-learning platform                     |
+| 🧪 **Software Testing Intern**     | GI Tech Pvt Ltd (3 months, Chennai)            |
+| 📊 **Business Analyst Intern**     | NexDigi (NextG) – Full-stack, client solutions |
+| 🔍 **Data Science Intern**         | Python, Pandas, ML workflows                   |
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <a href="tel:+917418281816">
-    <img src="https://img.shields.io/badge/Phone-+91%2074182%2081816-darkgreen?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="mailto:kmithun2005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kmithun2005@gmail.com-critical?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/mithun" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-View_Profile-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <img src="https://img.shields.io/badge/Location-Trichy,%20Tamil%20Nadu,%20India-orange?style=for-the-badge&logo=googlemaps" />
+  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java&logoColor=red" />
+  <img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B&logoColor=blue" />
+  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react&logoColor=cyan" />
+  <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker" />
+  <img src="https://img.shields.io/badge/-Azure-black?style=flat-square&logo=microsoft-azure" />
+  <img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws" />
 </p>
 
-
-## 🚀 Skills Overview
-
-
----
-
-## 🎓 Education
-
-| Level         | Institution                                       | Year     | Score       |
-|---------------|---------------------------------------------------|----------|-------------|
-| 🎓 B.E CSE     | K. Ramakrishnan College of Engineering, Trichy   | 2025     | CGPA: 7.78  |
-| 📘 12th CBSE   | RSK Higher Secondary School, Trichy              | 2021-22  | 72.6%       |
-| 📗 10th CBSE   | RSK Higher Secondary School, Trichy              | 2019-20  | 74.6%       |
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300px"/>
+</p>
 
 ---
 
-## 🛠️ Projects
+## 🏆 Certifications
 
-- 🔹 **Student Monitoring System** – Built with ReactJS & Python  
-- 🔹 **Narcotics Tracking System** – Worked with NCB (Delhi)  
-- 🔹 **Library Management System** – Streamlined library operations  
-- 🔹 **SmartLearn** – A school learning mobile app  
-
----
-
-## 💼 Internships & Trainings
-
-| Role                     | Company                  | Duration     | Location |
-|--------------------------|--------------------------|--------------|----------|
-| 🧪 Software Testing Intern | GI Tech Pvt Ltd           | 3 Months     | Chennai  |
-| 📊 Data Science Intern     | Learning Bot              | 2 Months     | Online   |
-| 🏭 Inplant Trainee         | Ordnance Factory          | 2 Months     | Trichy   |
-| 📚 Data Science Trainee    | T4TEQ                     | 3 Months     | Trichy   |
-| 🔍 Business Analyst        | NexDigi (NextG)           | Ongoing      | Trichy   |
+- 🏅 Microsoft Azure Fundamentals – Score: 957  
+- 🎖️ Cisco Certified Network Associate (CCNA)  
+- 🧠 CompTIA Network+  
+- 📜 NPTEL: Cloud Computing, Project Management  
+- 🏆 Smart India Hackathon 2024 – Finalist  
+- 🧪 Python + DSA – IIT Madras  
+- 🌐 AWS Workshop – NIT Trichy  
+- 🌏 MUN Delegate – Indonesia  
 
 ---
 
-## 📜 Certifications & Awards
-
-- 🏆 Finalist – **Smart India Hackathon 2024**, New Delhi  
-- 🌐 **Microsoft Certified**: Azure Fundamentals – *Score: 957*  
-- 💡 **Cisco Certified Network Associate (CCNA)**  
-- 🧩 **CompTIA Network+**  
-- 📚 **NPTEL**: Cloud Computing, Project Management  
-- 🧾 Internship certificates across Data Science, Testing, Analysis  
-
----
-
-## 📢 Workshops & Conferences
-
-- 🔹 **AWS Workshop** – NIT Trichy  
-- 🔹 **Python + DSA** – IIT Madras  
-- 🔹 **IEEE Conference** – *Student Monitoring System Paper*  
-- 🌏 **International MUN Conference** – Indonesia  
-
----
-
-## 🌟 Hobbies
-
-- 🎯 Speedcubing – Best 3x3 time: `27s`  
-- ⚽ Football  
-- 🚗 Driving  
-
----
-
-<div align="center">
-  <img src="https://img.shields.io/badge/NextG-Innovation-blueviolet?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/MITHUN'S%20ABORIGINEUM-Futuristic%20Resume-critical?style=for-the-badge&logo=vercel&logoColor=white" />
-</div>
-
----
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=200&text=Thanks+for+Visiting!&fontAlign=50&fontAlignY=40&color=gradient&desc=Let%27s+Connect+and+Innovate+Together!&descAlign=50&descAlignY=70" />
+  <a href="mailto:kmithun2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="tel:+917418281816"><img src="https://img.shields.io/badge/Call%20Me-%2B91%207418281816-blue?style=for-the-badge"/></a>
+  <a href="https://linkedin.com/in/mithun"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://github.com/mithun"><img src="https://img.shields.io/badge/GitHub-@mithun-181717?style=for-the-badge&logo=github"/></a>
+</p>
+
+---
+
+## ⚡ Fun Facts
+
+- 🎯 Speedcuber – Best 3x3 time: `27s`  
+- ⚽ Football fan & active player  
+- 🚗 Loves driving & road trips  
+- 💬 Fluent in Tamil, English, Hindi, and French  
+- 📈 Always curious & exploring new tech
+
+---
+
+<!-- 👁️ Visitor Badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mithun&style=for-the-badge&color=blue" alt="Profile views"/>
+</p>
+
+<!-- 🎉 Footer Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Thanks+for+visiting!&fontAlign=50&fontAlignY=40&color=gradient" />
 </p>
