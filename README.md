@@ -1,7 +1,8 @@
 <!-- Banner Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=450&lines=Hi+There!+I'm+Mithun+👋;Computer+Science+Engineer;React+%7C+Python+%7C+Java+Lover;Software+Tester+%7C+Business+Analyst+%7C+Data+Scientist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&width=600&lines=Hi+I'm+Mithun+K!;Computer+Science+Engineer+from+Trichy;ReactJS+%7C+Python+%7C+Java;Software+Testing+%7C+Business+Analysis+%7C+Cloud+Tech" alt="Typing SVG" />
 </p>
+
 
 ---
 
