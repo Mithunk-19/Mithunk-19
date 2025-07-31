@@ -15,11 +15,19 @@
 
 ## 📇 Contact Me
 
-| 📞 Phone             | ✉️ Email                             | 🌐 LinkedIn                                | 📍 Location             |
-|----------------------|--------------------------------------|--------------------------------------------|--------------------------|
-| `+91 74182 81816`    | [kmithun2005@gmail.com](mailto:kmithun2005@gmail.com) | [linkedin.com/in/mithun](https://linkedin.com/in/mithun) | Trichy, Tamil Nadu, India |
+<p align="center">
+  <a href="tel:+917418281816">
+    <img src="https://img.shields.io/badge/Phone-+91%2074182%2081816-darkgreen?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="mailto:kmithun2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-kmithun2005@gmail.com-critical?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/mithun" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-View_Profile-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Trichy,%20Tamil%20Nadu,%20India-orange?style=for-the-badge&logo=googlemaps" />
+</p>
 
----
 
 ## 🚀 Skills Overview
 
