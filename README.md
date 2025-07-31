@@ -1,6 +1,19 @@
 <!-- CENTERED BIG BANNER -->
+<!-- BIG COLORFUL NAME BANNER + RUNNING SYSTEMS -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&pause=1000&color=F700FF&center=true&vCenter=true&multiline=true&width=1000&lines=MITHUN+K.;Computer+Science+Engineer+from+Trichy;NextG+Intern+%7C+ReactJS+%7C+Python+%7C+Java;Software+Testing+%7C+Cloud+Tech+%7C+Business+Analysis;Welcome+to+My+Aborigineum+Project!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=36&duration=2000&pause=1000&color=FF00FF&center=true&vCenter=true&width=1000&lines=Hi+I'm+Mithun+K!;Computer+Science+Engineer+from+Trichy;NextG+Intern+%7C+ReactJS+%7C+Python+%7C+Java;Software+Testing+%7C+Data+Science+%7C+Azure+%7C+AWS;Welcome+to+My+Aborigineum+Interactive+Resume!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif" width="180px" />
+  <img src="https://media.giphy.com/media/UqZ3YfDj5kv9C/giphy.gif" width="180px" />
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="180px" />
+  <img src="https://media.giphy.com/media/jTfzK1p5xfr2g/giphy.gif" width="180px" />
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0zjME/giphy.gif" width="180px" />
+</p>
+
+<p align="center">
+  <strong>👨‍💻 Tech Enthusiast • Finalist @ SIH 2024 • Innovating @ NextG • Cloud | Web | Data</strong>
 </p>
 
 ---
